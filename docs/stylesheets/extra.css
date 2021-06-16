@@ -1,0 +1,14 @@
+[data-md-color-scheme="light"] {
+	--md-code-fg-color: #000000
+	
+	--md-code-hl-variable-color: var(--md-code-fg-color);
+	--md-code-hl-operator-color: #7f7f00;
+	--md-code-hl-string-color: #7f007f;
+	--md-code-hl-number-color: #007f7f;
+	--md-code-hl-keyword-color: #00007f;
+	--md-code-hl-function-color: #0074bd;
+	--md-code-hl-generic-color: var(--md-code-fg-color);
+	--md-code-hl-punctuation-color: var(--md-code-fg-color);
+	--md-code-hl-name-color: var(--md-code-fg-color);
+	--md-code-hl-comment-color: #007f09;
+}
