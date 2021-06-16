@@ -6,6 +6,8 @@ Heres the github repository [github.com](https://github.com/remi-reyes/Documenta
 
 This is just an example of documentation with Material for MKDocs
 
+I'm just going to show off an idiotic thing everyone knows.
+
 ```lua linenums="1"
 -- This is a lua codeblock.
 local class = {}
