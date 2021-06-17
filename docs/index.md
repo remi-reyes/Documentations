@@ -1,6 +1,6 @@
 # Welcome to my documentation!
 
-Heres the github repository [github.com](https://github.com/remi-reyes/Documentations).
+Heres the github repository [remi-reyes/Documentations](https://github.com/remi-reyes/Documentations).
 
 ## About
 
