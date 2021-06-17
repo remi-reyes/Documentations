@@ -1,6 +1,7 @@
 site_name: Remi's Documents
 site_url: https://example.com/
 repo_url: https://github.com/remi-reyes/Documentations
+edit_uri: ""
 
 extra_css:
   - stylesheets/extra.css
@@ -13,9 +14,6 @@ theme:
     features:
       - navigation.instant
       - navigation.tabs
-    icon:
-        repo:
-            edit_uri: ""
 
 markdown_extensions:
   - pymdownx.details
