@@ -1,5 +1,5 @@
 [data-md-color-scheme="light"] {
-	--md-code-fg-color: #000000
+	--md-code-fg-color: #000000;
 	
 	--md-code-hl-variable-color: var(--md-code-fg-color);
 	--md-code-hl-operator-color: #7f7f00;
@@ -11,4 +11,19 @@
 	--md-code-hl-punctuation-color: var(--md-code-fg-color);
 	--md-code-hl-name-color: var(--md-code-fg-color);
 	--md-code-hl-comment-color: #007f09;
+}
+[data-md-color-scheme="dark"] {
+	--md-code-bg-color: #252525;
+	--md-code-fg-color: #cccccc;
+	
+	--md-code-hl-variable-color: var(--md-code-fg-color);
+	--md-code-hl-operator-color: var(--md-code-fg-color);
+	--md-code-hl-string-color: #adf195;
+	--md-code-hl-number-color: #ffc600;
+	--md-code-hl-keyword-color: #f86d7c;
+	--md-code-hl-function-color: #fdfbac;
+	--md-code-hl-generic-color: var(--md-code-fg-color);
+	--md-code-hl-punctuation-color: var(--md-code-fg-color);
+	--md-code-hl-name-color: var(--md-code-fg-color);
+	--md-code-hl-comment-color: #666666;
 }
