@@ -10,6 +10,9 @@ theme:
     name: material
     palette:
         scheme: light
+    features:
+      - navigation.instant
+      - navigation.tabs
 
 markdown_extensions:
   - pymdownx.details
