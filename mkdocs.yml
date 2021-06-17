@@ -15,7 +15,7 @@ theme:
       - navigation.tabs
     icon:
         repo:
-            edit_url: ""
+            edit_uri: ""
 
 markdown_extensions:
   - pymdownx.details
