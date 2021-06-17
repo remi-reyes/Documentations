@@ -1,10 +1,9 @@
 name: ci
 on:
-push:
+  push:
     branches:
-        - master
-        - main
- 
+      - master
+      - main
 jobs:
   deploy:
     runs-on: ubuntu-latest
