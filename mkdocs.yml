@@ -13,6 +13,9 @@ theme:
     features:
       - navigation.instant
       - navigation.tabs
+    icon:
+        repo:
+            edit_url: ""
 
 markdown_extensions:
   - pymdownx.details
