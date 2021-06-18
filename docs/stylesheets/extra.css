@@ -16,7 +16,7 @@
 	--md-code-hl-comment-color: #007f09;
 }
 [data-md-color-scheme="dark"] {
-	--md-code-bg-color: #ffffff;
+	--md-code-bg-color: #252525;
 	--md-code-fg-color: #cccccc;
 	
 	--md-code-hl-variable-color: var(--md-code-fg-color);
