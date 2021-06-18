@@ -14,11 +14,11 @@ theme:
     palette:
       - scheme: light
         toggle:
-            icon: material/lightbulb
+            icon: material/lightbulb-outline
             name: Switch to dark mode.
       - scheme: dark
         toggle:
-            icon: material/lightbulb-outline
+            icon: material/lightbulb
             name: Switch to light mode.
     features:
       - navigation.instant
